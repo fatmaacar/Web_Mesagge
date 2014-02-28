@@ -14,7 +14,7 @@
 
 
 <ul id="minitabs">
-    <li><a href="NewFile.jsp">Giris Yapp</a></li>
+    <li><a href="NewFile.jsp">Giris Yap</a></li>
     <li><a href="NewFile2.jsp">Mesajlasma</a></li>
     <li><a href="NewFile2.jsp">Hakkimizda</a></li>
     

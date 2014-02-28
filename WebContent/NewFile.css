@@ -1,0 +1,106 @@
+@CHARSET "UTF-8";
+
+
+.div1
+{
+	width:300px;
+	height:300px;
+	text-align:left;
+	background:#C0C0C0;
+}
+
+.input1
+{
+	
+	float:left;
+	position:relative;
+	width:30%;
+	left:35%;
+	top:35%;
+	color: #F60;
+	width:30;
+	height:30;
+	text-align:left;
+	background: #C8EDAE;
+
+}
+
+.input2
+{
+	
+
+	top:35%;
+	color: #F60;
+	text-align:left;
+	background: #C8EDAE;
+
+}
+
+.input1:HOVER
+{
+	color: #fff;
+	background:  #fff;
+	border-bottom:1px solid #000;
+}
+
+
+.asd
+{
+
+	color: #F60;
+	vertical-align: middle;
+	background-color: #C8EDAE;
+	
+}
+
+
+.txtBig
+{
+	float:left;
+	position:relative;
+	width:80%;
+	left:10%;
+	top:35%;
+	color: #F60;
+	width:30;
+	height:30;
+	text-align:left;
+	background: #C8EDAE;
+	
+}
+
+
+
+
+ul#minitabs{
+    padding-top:60px;
+    background: #FFF;
+    font: 100% Arial,sans-serif;
+    text-align:center;
+    list-style: none;
+    margin: 0;
+    padding: 7px 0;
+    border-bottom: 1px solid #CCC;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+    height: 30px;
+}
+ul#minitabs li{
+    display: inline;
+    margin: 0 3px
+}
+ul#minitabs a{
+    text-decoration: none;
+    padding: 0 0 3px;
+    border-bottom: 4px solid #FFF;
+    color: #999
+}
+ul#minitabs a#current{
+    border-color: #F60;
+    color:#06F
+}
+ul#minitabs a:hover{
+    border-color: #F60;
+    color: #666
+}

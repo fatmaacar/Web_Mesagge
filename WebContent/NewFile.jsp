@@ -23,8 +23,8 @@
 <form method="post" action="NewFile2.jsp">
 
 <input type="text" name="kullaniciAdi">
-<input type="submit">
-<input type="reset">
+<input type="submit" value="Nicki Gonder">
+<input type="reset" value="Temizle">
 
 </form>
 

@@ -10,15 +10,10 @@ import com.mysql.jdbc.Statement;
 public class connect 
 {
 
-	   //static final String DB_URL = "jdbc:mysql://localhost:3306/test";
+	   static final String DB_URL = "jdbc:mysql://localhost:3306/test";
 
-	   //static final String USER = "root";
-	   //static final String PASS = "awedrtgh";
-	
-		static final String DB_URL = "jdbc:mysql://sql3.freesqldatabase.com/sql331412";
-
-	   	static final String USER = "sql331412";
-	   	static final String PASS = "cZ7%uM6!";
+	   static final String USER = "root";
+	   static final String PASS = "awedrtgh";
 	   
 	   
 	   public String[] mesajGetir()

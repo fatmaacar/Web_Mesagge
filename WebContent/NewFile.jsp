@@ -14,19 +14,29 @@
 
 
 <ul id="minitabs">
-    <li><a href="NewFile.jsp">Giris Yapp</a></li>
+    <li><a href="NewFile.jsp">Giris Yap</a></li>
     <li><a href="NewFile2.jsp">Mesajlasma</a></li>
     <li><a href="NewFile2.jsp">Hakkimizda</a></li>
     
 </ul>
 
+
+
 <form method="post" action="NewFile2.jsp">
 
-<input type="text" name="kullaniciAdi">
+<input type="text" class="isimtext" name="kullaniciAdi">
+<br><br><br>
 <input type="submit" value="Nicki Gonder">
 <input type="reset" value="Temizle">
 
+
 </form>
+
+
+
+
+
+
 
 
 

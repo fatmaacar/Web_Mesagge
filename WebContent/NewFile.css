@@ -1,6 +1,16 @@
 @CHARSET "UTF-8";
 
 
+.isimtext
+{
+	
+	width:30%;
+	background:#C0C0C0;
+	color: #F60;
+	float:left;
+}
+
+
 .div1
 {
 	width:300px;
